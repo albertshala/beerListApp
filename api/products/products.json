@@ -1,0 +1,52 @@
+[
+    {
+        "beerId": 1,
+        "beerName": "Fat Tug",
+        "brewery": "Driftwood Brewery",
+        "type": "IPA",
+        "description": "Brewed with the hop aficionado in mind, Fat Tug is a Northwest-style India Pale Ale with an intense hop profile featuring notes of grapefruit, mango, melon and passionfruit",
+        "ABV": "7%",
+        "starRating": 4.5,
+        "imageUrl": "https://driftwoodbeer.com/app/uploads/2016/01/Fat-Tug-250x923.png"
+    },
+    {
+        "beerId": 2,
+        "beerName": "Crooked Coast",
+        "brewery": "Driftwood Brewery",
+        "type": "Altbier",
+        "description": "Crooked Coast is inspired by the original Alt-style beer of Dusseldorf; “Alt” is German for “old” and the style a vestige of the days before lager yeast was discovered, when ales were what German Brewers produced. A marriage of the aromas of both German noble hops and caramel Munich malt, this quintessential session beer is defined by its delicate malt-hop balance.",
+        "ABV": "5%",
+        "starRating": 3.6,
+        "imageUrl": "https://driftwoodbeer.com/app/uploads/2016/01/Crooked-Coast-1-250x923.png"
+    },
+    {
+        "beerId": 5,
+        "beerName": "White Bark",
+        "brewery": "Driftwood Brewery",
+        "type": "Witbier",
+        "description": "This traditional Belgian-style wheat ale is brewed with the addition of freshly-ground coriander and Curacao orange peel. Citrus and floral aromas outshine the hops and dominate the nose of this dry and approachable beer, while the use of raw wheat adds cloudiness and enhances its mouthfeel.",
+        "ABV": "5%",
+        "starRating": 4.8,
+        "imageUrl": "https://driftwoodbeer.com/app/uploads/2016/02/White-Bark-250x923.png"
+    },
+    {
+        "beerId": 8,
+        "beerName": "Blackstone",
+        "brewery": "Driftwood Brewery",
+        "type": "Porter",
+        "description": "A drinkable platform to explore dark malt! The Blackstone Porter has ample body to support the flavours of chocolate and coffee derived from dark specialty malts. A surprisingly-quaffable session Porter, and the perfect companion to good conversation when the rain is lashing at the windows. Blackstone Porter is available seasonally during the colder months.",
+        "ABV": "6%",
+        "starRating": 3.8,
+        "imageUrl": "https://driftwoodbeer.com/app/uploads/2016/02/Black-Stone-250x923.png"
+    },
+    {
+        "beerId": 10,
+        "beerName": "Farmhand",
+        "brewery": "Driftwood Brewery",
+        "type": "Saison",
+        "description": "Our interpretation of this Southern-Belgian farmhouse ale employs a long-grain bill and the addition of freshly-ground black pepper to the Brew Kettle. We use the versatile Ardennes yeast from Belgium, adding notes of bubblegum, banana and cloves to this Saison’s sturdy malt backbone.",
+        "ABV": "5%",
+        "starRating": 4,
+        "imageUrl": "https://driftwoodbeer.com/app/uploads/2016/02/FarmHand-250x923.png"
+    }
+]

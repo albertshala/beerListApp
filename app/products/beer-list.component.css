@@ -1,0 +1,24 @@
+thead {
+    color: #000;
+}
+.panel-heading {
+    background: #39342F;
+}
+.panel-primary > .panel-heading {
+    color: #fff;
+    background-color: #39342F;
+    border-color: #39342F;
+}
+.panel-primary {
+    border-color: #39342F;
+    background: #F1ECE6;
+}
+tr td {
+    border-color: #ccc;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #39342F;
+    border-color: #F1ECE6;
+}
